@@ -3,6 +3,10 @@
 ## Martin's Modification
 Change rocksdb to static compile
 
+References:
+- [Compile on windows using vcpkg](https://github.com/facebook/rocksdb/blob/master/INSTALL.md)
+- [Static link for rocksdb](https://github.com/facebook/rocksdb/wiki/Building-on-Windows), but they missed one option.
+
 ## Overview
 Vcpkg helps you manage C and C++ libraries on Windows, Linux and MacOS. This tool and ecosystem are constantly evolving; your involvement is vital to its success!
 
