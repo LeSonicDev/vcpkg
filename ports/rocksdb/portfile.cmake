@@ -1,3 +1,6 @@
+set(VCPKG_LIBRARY_LINKAGE static)
+set(VCPKG_CRT_LINKAGE static)
+
 include(vcpkg_common_functions)
 
 vcpkg_from_github(
